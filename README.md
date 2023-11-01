@@ -5,7 +5,7 @@ The problem statement is to create a Stream lit application that allows users to
 
 Technologies used :
               •	Python
-                •	MongoDB
+              •	MongoDB
               •	MySQL
               •	YouTube Data API
               •	Streamlit
