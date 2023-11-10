@@ -10,8 +10,7 @@ The problem statement is to create a Stream lit application that allows users to
               -	YouTube Data API
               -	Streamlit
               -	Pandas
-              -	Plotly
-
+             
 
 
 ##Overview :
